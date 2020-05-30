@@ -23,10 +23,32 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
+
+In preprocessing, there are three main concepts:
+The language or syntax to write our code (LESS)
+The compiler that converts the language (Node)
+The CSS output from the compiler (Normal CSS)
+For us to use LESS language, we need to have a compiler that understands that specific language input.
+A compiler is a program that converts language into code. In this case, LESS is the language, and CSS is the outputted code. We utilize compilers to provide more features than standard CSS can offer.
+
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+ Variables and Mixins favorite concept. Nesting and Inheritance gives most trouble. 
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+Variables allow developers to hold onto(store) essential values like font stacks, colors, and width sizes, to name a few, to use throughout code in a simplified form.
+
 4. What is the purpose of using functions in code?
+
+Functions allow you, the developer, to repeat sections of code with just a single line.
+
 5. What is JSON data?
+JSON is short for JavaScript Object Notation, and is a way to store information in an organized, easy-to-access manner.
+
+
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
